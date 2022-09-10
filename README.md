@@ -1,5 +1,5 @@
-# LeGrep-Discord-Bot
-LeGrep is a Discord crawler bot that will fetch requests from rebrickable's website, display information about a specific set and show results for user lists
+# LEGO Grep-Discord-Bot
+LEGO Grep is a Discord crawler bot that will fetch requests from rebrickable's website, display information about a specific set and show results for user lists
 
 
 Requirements:
